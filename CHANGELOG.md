@@ -1,5 +1,30 @@
 # Changelog
 
+## [v1.74.2](https://github.com/fr34k8/tbls/compare/v1.52.0...v1.74.2) - 2024-05-03
+### Other Changes
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/1
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/3
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/4
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/5
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/6
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/7
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/8
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/9
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/10
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/11
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/12
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/13
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/14
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/15
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/16
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/17
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/18
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/19
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/20
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/21
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/22
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/23
+
 ## [v1.74.2](https://github.com/k1LoW/tbls/compare/v1.74.1...v1.74.2) - 2024-05-02
 ### Fix bug 🐛
 - Support the case where name in index_info is NULL. by @k1LoW in https://github.com/k1LoW/tbls/pull/579
