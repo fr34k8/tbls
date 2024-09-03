@@ -1,5 +1,44 @@
 # Changelog
 
+## [v1.77.0](https://github.com/fr34k8/tbls/compare/v1.52.0...v1.77.0) - 2024-09-03
+### Other Changes
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/1
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/3
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/4
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/5
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/6
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/7
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/8
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/9
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/10
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/11
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/12
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/13
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/14
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/15
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/16
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/17
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/18
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/19
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/20
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/21
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/22
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/23
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/24
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/25
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/26
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/27
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/28
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/29
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/30
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/31
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/32
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/33
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/34
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/35
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/36
+- [pull] main from k1LoW:main by @pull in https://github.com/fr34k8/tbls/pull/37
+
 ## [v1.77.0](https://github.com/k1LoW/tbls/compare/v1.76.1...v1.77.0) - 2024-07-24
 ### Breaking Changes 🛠
 - Refactor when expression handling by @mjpieters in https://github.com/k1LoW/tbls/pull/600
