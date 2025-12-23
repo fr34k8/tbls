@@ -1,5 +1,73 @@
 # Changelog
 
+## [v1.92.2](https://github.com/fr34k8/tbls/compare/v1.52.0...v1.92.2) - 2025-12-23
+### Other Changes
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/1
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/3
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/4
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/5
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/6
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/7
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/8
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/9
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/10
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/11
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/12
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/13
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/14
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/15
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/16
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/17
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/18
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/19
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/20
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/21
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/22
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/23
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/24
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/25
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/26
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/27
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/28
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/29
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/30
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/31
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/32
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/33
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/34
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/35
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/36
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/37
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/38
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/39
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/40
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/41
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/42
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/43
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/44
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/45
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/46
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/47
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/48
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/49
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/50
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/51
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/52
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/53
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/54
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/55
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/56
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/57
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/58
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/59
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/60
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/61
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/62
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/63
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/64
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/65
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/66
+
 ## [v1.92.2](https://github.com/k1LoW/tbls/compare/v1.92.1...v1.92.2) - 2025-12-22
 ### Fix bug 🐛
 - fix: merge viewpoints only by name, not by tables/labels combination by @k1LoW in https://github.com/k1LoW/tbls/pull/787
