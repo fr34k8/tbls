@@ -1,5 +1,12 @@
 # Changelog
 
+## [v1.92.4](https://github.com/fr34k8/tbls/compare/v1.92.3...v1.92.4) - 2026-03-04
+### Other Changes
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/71
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/73
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/74
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/75
+
 ## [v1.92.3](https://github.com/k1LoW/tbls/compare/v1.92.2...v1.92.3) - 2026-01-07
 ### Fix bug 🐛
 - Fix databricks top level arrays by @Ewan-Keith in https://github.com/k1LoW/tbls/pull/794
