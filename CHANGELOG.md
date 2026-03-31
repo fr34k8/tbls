@@ -1,5 +1,10 @@
 # Changelog
 
+## [v1.94.1](https://github.com/k1LoW/tbls/compare/v1.94.0...v1.94.1) - 2026-03-31
+### Other Changes
+- chore(deps): bump golang.org/x/image from 0.36.0 to 0.38.0 by @dependabot[bot] in https://github.com/k1LoW/tbls/pull/812
+- chore(deps): bump github.com/buger/jsonparser from 1.1.1 to 1.1.2 in /scripts/jsonschema by @dependabot[bot] in https://github.com/k1LoW/tbls/pull/813
+
 ## [v1.94.0](https://github.com/k1LoW/tbls/compare/v1.93.0...v1.94.0) - 2026-03-25
 ### Breaking Changes 🛠
 - fix: hide Description header when table has no comment or definition by @KeitaShimura in https://github.com/k1LoW/tbls/pull/810
