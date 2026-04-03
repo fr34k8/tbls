@@ -1,5 +1,12 @@
 # Changelog
 
+## [v1.94.2](https://github.com/k1LoW/tbls/compare/v1.94.1...v1.94.2) - 2026-04-03
+### Other Changes
+- chore(deps): bump github.com/go-jose/go-jose/v4 from 4.1.3 to 4.1.4 by @dependabot[bot] in https://github.com/k1LoW/tbls/pull/818
+- chore(deps): bump github.com/go-jose/go-jose/v3 from 3.0.4 to 3.0.5 by @dependabot[bot] in https://github.com/k1LoW/tbls/pull/817
+- chore(deps): bump the dependencies group with 4 updates by @dependabot[bot] in https://github.com/k1LoW/tbls/pull/815
+- chore(deps): bump the dependencies group with 17 updates by @dependabot[bot] in https://github.com/k1LoW/tbls/pull/816
+
 ## [v1.94.1](https://github.com/k1LoW/tbls/compare/v1.94.0...v1.94.1) - 2026-03-31
 ### Other Changes
 - chore(deps): bump golang.org/x/image from 0.36.0 to 0.38.0 by @dependabot[bot] in https://github.com/k1LoW/tbls/pull/812
