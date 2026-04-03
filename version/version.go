@@ -4,4 +4,4 @@ package version //nolint:revive
 const Name string = "tbls"
 
 // Version for this.
-var Version = "1.94.1"
+var Version = "1.94.2"
