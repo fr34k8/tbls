@@ -160,7 +160,7 @@
           "type": "FOREIGN KEY",
           "def": "FOREIGN KEY (user_id) REFERENCES users(id) ON DELETE CASCADE",
           "table": "public.user_options",
-          "referenced_table": "users",
+          "referenced_table": "public.users",
           "columns": [
             "user_id"
           ],
@@ -272,7 +272,7 @@
           "type": "FOREIGN KEY",
           "def": "FOREIGN KEY (user_id) REFERENCES users(id) ON DELETE CASCADE",
           "table": "public.posts",
-          "referenced_table": "users",
+          "referenced_table": "public.users",
           "columns": [
             "user_id"
           ],
@@ -383,7 +383,7 @@
           "type": "FOREIGN KEY",
           "def": "FOREIGN KEY (user_id) REFERENCES users(id)",
           "table": "public.comments",
-          "referenced_table": "users",
+          "referenced_table": "public.users",
           "columns": [
             "user_id"
           ],
@@ -396,7 +396,7 @@
           "type": "FOREIGN KEY",
           "def": "FOREIGN KEY (post_id) REFERENCES posts(id)",
           "table": "public.comments",
-          "referenced_table": "posts",
+          "referenced_table": "public.posts",
           "columns": [
             "post_id"
           ],
@@ -481,7 +481,7 @@
           "type": "FOREIGN KEY",
           "def": "FOREIGN KEY (comment_user_id) REFERENCES users(id)",
           "table": "public.comment_stars",
-          "referenced_table": "users",
+          "referenced_table": "public.users",
           "columns": [
             "comment_user_id"
           ],
@@ -494,7 +494,7 @@
           "type": "FOREIGN KEY",
           "def": "FOREIGN KEY (comment_post_id, comment_user_id) REFERENCES comments(post_id, user_id)",
           "table": "public.comment_stars",
-          "referenced_table": "comments",
+          "referenced_table": "public.comments",
           "columns": [
             "comment_post_id",
             "comment_user_id"
@@ -733,7 +733,7 @@
           "type": "FOREIGN KEY",
           "def": "FOREIGN KEY (\"CamelizeTableId\") REFERENCES \"CamelizeTable\"(id) ON DELETE CASCADE",
           "table": "public.hyphen-table",
-          "referenced_table": "CamelizeTable",
+          "referenced_table": "public.CamelizeTable",
           "columns": [
             "CamelizeTableId"
           ],
@@ -806,7 +806,7 @@
           "type": "FOREIGN KEY",
           "def": "FOREIGN KEY (user_id) REFERENCES users(id) ON DELETE CASCADE",
           "table": "administrator.blogs",
-          "referenced_table": "users",
+          "referenced_table": "public.users",
           "columns": [
             "user_id"
           ],
@@ -922,7 +922,7 @@
           "type": "FOREIGN KEY",
           "def": "FOREIGN KEY (blog_id) REFERENCES blogs(id) ON DELETE CASCADE",
           "table": "backup.blog_options",
-          "referenced_table": "blogs",
+          "referenced_table": "backup.blogs",
           "columns": [
             "blog_id"
           ],
@@ -1044,7 +1044,7 @@
           "type": "FOREIGN KEY",
           "def": "FOREIGN KEY (bar_id) REFERENCES \"time\".bar(id)",
           "table": "time.referencing",
-          "referenced_table": "bar",
+          "referenced_table": "time.bar",
           "columns": [
             "bar_id"
           ],
@@ -1057,7 +1057,7 @@
           "type": "FOREIGN KEY",
           "def": "FOREIGN KEY (ht_id) REFERENCES \"time\".\"hyphenated-table\"(id)",
           "table": "time.referencing",
-          "referenced_table": "hyphenated-table",
+          "referenced_table": "time.hyphenated-table",
           "columns": [
             "ht_id"
           ],

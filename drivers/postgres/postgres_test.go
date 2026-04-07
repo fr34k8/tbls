@@ -99,3 +99,39 @@ func TestParseFK(t *testing.T) {
 		})
 	}
 }
+
+func TestAnalyzeConstraintReferencedTable(t *testing.T) {
+	driver := New(db)
+	if err := driver.Analyze(s); err != nil {
+		t.Fatal(err)
+	}
+
+	tests := []struct {
+		tableName      string
+		constraintName string
+		want           string
+	}{
+		{"user_options", "user_options_user_id_fk", "public.users"},
+		{"backup.blog_options", "blog_options_blog_id_fk", "backup.blogs"},
+		{"time.referencing", "referencing_bar_id", "time.bar"},
+	}
+
+	for _, tt := range tests {
+		t.Run(tt.constraintName, func(t *testing.T) {
+			table, err := s.FindTableByName(tt.tableName)
+			if err != nil {
+				t.Fatal(err)
+			}
+			constraint, err := table.FindConstraintByName(tt.constraintName)
+			if err != nil {
+				t.Fatal(err)
+			}
+			if constraint.ReferencedTable == nil {
+				t.Fatalf("constraint %s has nil referenced table", tt.constraintName)
+			}
+			if got := *constraint.ReferencedTable; got != tt.want {
+				t.Errorf("got %v\nwant %v", got, tt.want)
+			}
+		})
+	}
+}
