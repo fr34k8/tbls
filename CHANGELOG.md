@@ -1,5 +1,11 @@
 # Changelog
 
+## [v1.94.3](https://github.com/k1LoW/tbls/compare/v1.94.2...v1.94.3) - 2026-04-08
+### Fix bug 🐛
+- fix(postgres): add missing table schema name to referenced_table in schema.json by @KaoruMuta in https://github.com/k1LoW/tbls/pull/821
+### Other Changes
+- chore(deps): bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.71.1 to 1.97.3 by @dependabot[bot] in https://github.com/k1LoW/tbls/pull/822
+
 ## [v1.94.2](https://github.com/k1LoW/tbls/compare/v1.94.1...v1.94.2) - 2026-04-03
 ### Other Changes
 - chore(deps): bump github.com/go-jose/go-jose/v4 from 4.1.3 to 4.1.4 by @dependabot[bot] in https://github.com/k1LoW/tbls/pull/818
