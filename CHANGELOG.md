@@ -1,5 +1,9 @@
 # Changelog
 
+## [v1.94.4](https://github.com/k1LoW/tbls/compare/v1.94.3...v1.94.4) - 2026-04-08
+### Other Changes
+- chore(deps): bump go.opentelemetry.io/otel/sdk from 1.42.0 to 1.43.0 by @dependabot[bot] in https://github.com/k1LoW/tbls/pull/825
+
 ## [v1.94.3](https://github.com/k1LoW/tbls/compare/v1.94.2...v1.94.3) - 2026-04-08
 ### Fix bug 🐛
 - fix(postgres): add missing table schema name to referenced_table in schema.json by @KaoruMuta in https://github.com/k1LoW/tbls/pull/821
