@@ -396,7 +396,8 @@ ON kcu.constraint_name = sub.constraint_name
   AND kcu.table_name = sub.table_name
   AND (kcu.referenced_table_name = sub.referenced_table_name OR (kcu.referenced_table_name IS NULL AND sub.referenced_table_name IS NULL))
 WHERE kcu.table_schema= ?
-GROUP BY kcu.table_name, kcu.constraint_name, sub.constraint_type, kcu.referenced_table_name`, s.Name)
+GROUP BY kcu.table_name, kcu.constraint_name, sub.constraint_type, kcu.referenced_table_name
+ORDER BY kcu.table_name, kcu.constraint_name, sub.constraint_type, kcu.referenced_table_name`, s.Name)
 	if err != nil {
 		return errors.WithStack(err)
 	}
@@ -459,6 +460,7 @@ SELECT
 FROM information_schema.check_constraints AS c
 JOIN information_schema.table_constraints AS t ON c.constraint_schema = t.constraint_schema AND c.constraint_name = t.constraint_name
 WHERE t.table_schema = ?
+ORDER BY t.table_name, c.constraint_name
 `, s.Name)
 		if err != nil {
 			return errors.WithStack(err)

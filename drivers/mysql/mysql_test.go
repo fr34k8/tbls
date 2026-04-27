@@ -84,3 +84,51 @@ func TestInfo(t *testing.T) {
 		t.Errorf("got not empty string.")
 	}
 }
+
+func TestCheckConstraintsOrder(t *testing.T) {
+	if _, err := db.Exec(`DROP TABLE IF EXISTS tbls_check_order`); err != nil {
+		t.Fatal(err)
+	}
+	if _, err := db.Exec(`
+CREATE TABLE tbls_check_order (
+  a int,
+  b int,
+  CONSTRAINT chk_tbls_check_order_b CHECK (b > 0),
+  CONSTRAINT chk_tbls_check_order_a CHECK (a > 0)
+)`); err != nil {
+		t.Fatal(err)
+	}
+	defer func() {
+		_, _ = db.Exec(`DROP TABLE IF EXISTS tbls_check_order`)
+	}()
+
+	driver, err := New(db)
+	if err != nil {
+		t.Fatal(err)
+	}
+	sc := &schema.Schema{Name: "testdb"}
+	if err := driver.Analyze(sc); err != nil {
+		t.Fatal(err)
+	}
+
+	tbl, err := sc.FindTableByName("tbls_check_order")
+	if err != nil {
+		t.Fatal(err)
+	}
+	var got []string
+	for _, c := range tbl.Constraints {
+		if c.Type == "CHECK" {
+			got = append(got, c.Name)
+		}
+	}
+	want := []string{"chk_tbls_check_order_a", "chk_tbls_check_order_b"}
+	if len(got) != len(want) {
+		t.Fatalf("got %v\nwant %v", got, want)
+	}
+	for i := range want {
+		if got[i] != want[i] {
+			t.Errorf("got %v\nwant %v", got, want)
+			break
+		}
+	}
+}
