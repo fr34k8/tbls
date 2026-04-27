@@ -1,5 +1,9 @@
 # Changelog
 
+## [v1.94.5](https://github.com/k1LoW/tbls/compare/v1.94.4...v1.94.5) - 2026-04-27
+### Fix bug 🐛
+- fix(mysql): stabilize constraint introspection order by @upamune in https://github.com/k1LoW/tbls/pull/830
+
 ## [v1.94.4](https://github.com/k1LoW/tbls/compare/v1.94.3...v1.94.4) - 2026-04-08
 ### Other Changes
 - chore(deps): bump go.opentelemetry.io/otel/sdk from 1.42.0 to 1.43.0 by @dependabot[bot] in https://github.com/k1LoW/tbls/pull/825
