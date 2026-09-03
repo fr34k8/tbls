@@ -1,5 +1,18 @@
 # Changelog
 
+## [v1.95.1](https://github.com/fr34k8/tbls/compare/v1.95.0...v1.95.1) - 2026-09-03
+
+### Other Changes
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/93
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/95
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/96
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/97
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/98
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/99
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/100
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/101
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/102
+
 ## [v1.95.0](https://github.com/k1LoW/tbls/compare/v1.94.5...v1.95.0) - 2026-07-11
 
 ### New Features 🎉
