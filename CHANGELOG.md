@@ -1,5 +1,12 @@
 # Changelog
 
+## [v1.96.1](https://github.com/fr34k8/tbls/compare/v1.96.0...v1.96.1) - 2026-09-28
+
+### Other Changes
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/104
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/106
+- [pull] main from k1LoW:main by @pull[bot] in https://github.com/fr34k8/tbls/pull/107
+
 ## [v1.96.0](https://github.com/k1LoW/tbls/compare/v1.95.0...v1.96.0) - 2026-09-03
 
 ### Breaking Changes 🛠
